@@ -4,7 +4,7 @@ export const STORE_INFO = {
   name: "Minimarket Serbu",
   tagline: "Belanja Kebutuhan Harian & Sembako — Antar Cepat atau Ambil di Gerai",
   branch: "Minimarket Serbu — Gerai Utama",
-  address: "Jl. Raya Utama No. 45, Jakarta",
+  address: "Jl. Palembang-Betung KM 30, Palembang",
   hours: "Setiap Hari · 07.00 – 22.00 WIB",
   phone: "0812-3456-7890",
   email: "layanan@serbuminimarket.id",

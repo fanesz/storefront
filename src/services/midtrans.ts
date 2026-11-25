@@ -66,7 +66,7 @@ export async function createMidtransSnapTransaction(params: {
           fulfillment === "delivery"
             ? customer.address.trim().slice(0, 200)
             : "Ambil di Toko — Minimarket Serbu Gerai Utama",
-        city: "Jakarta",
+        city: "Palembang",
         country_code: "IDN",
       },
     },
